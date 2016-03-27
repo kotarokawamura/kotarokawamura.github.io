@@ -1,0 +1,21 @@
+/*
+css
+セレクタ{プロパティ ：値；}
+
+*/
+
+* {color: black}
+h1 {
+    color: red;
+    font-size: 10;
+}
+p {
+    color: black; 
+    height: 100%;
+}
+a:link{ color: vlue;}
+a:visited{color: pink;}
+a:hover{color: orange;}
+a:active{ color: red;}
+input:focus{ color: skyblue;}
+a[href="http://google.com"]{color: orange;}
